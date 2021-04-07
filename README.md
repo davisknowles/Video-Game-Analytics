@@ -1,4 +1,4 @@
-# Heroes of Pymoli: Video Game Analytics
+# Video Game Analytics: Heroes of Pymoli
 Analyze data for an independent video game company. 
 
 ## Objective
