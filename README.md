@@ -1,5 +1,5 @@
 # Video Game Analytics: Heroes of Pymoli
-Analyze data for an independent video game company. 
+Analyze data for an independent video game company using Python Pandas.
 
 ## Objective
 - Heroes of Pymoli, a new game, is free-to-play. But players are encouraged to purchase optional items that enhance their playing experience. As a first task, generate a report that breaks down the game's purchasing data into meaningful insights.
